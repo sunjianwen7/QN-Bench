@@ -1,0 +1,62 @@
+# ============================================================
+# QNBench Default Configuration
+# ============================================================
+
+env:
+  # --- Topology ---
+  node_distances: [50.0, 50.0, 50.0]   # km between adjacent nodes
+  num_nodes: 4
+  mem_per_node: 4
+
+  # --- Physics ---
+  prob_gen: 0.6
+  prob_swap: 0.8
+  prob_purify: 0.7
+  t_coherence: 2000.0        # ms
+  init_fidelity: 0.95
+  swap_resets_coherence: false
+
+  # --- Timing ---
+  gate_time_swap: 0.001      # ms
+  gate_time_purify: 0.001    # ms
+  classical_processing: 0.1  # ms
+  gen_clock_rate_mhz: 10.0
+
+  # --- Reward ---
+  step_penalty: -0.2
+  time_penalty_per_ms: -0.0005
+  invalid_action_penalty: -1.0
+  failed_action_penalty: -0.1
+  gen_success_reward: 0.1
+  swap_success_reward: 0.5
+  purify_base_reward: 0.2
+  purify_bonus_factor: 2.0
+  span_progress_reward: 1.0
+  delivery_reward: 50.0
+  delivery_bonus_factor: 50.0
+  delivery_fidelity_threshold: 0.8
+  max_steps: 500
+  oracle_mode: true
+
+# --- RL Training ---
+rl:
+  algo: ppo
+  total_timesteps: 200000
+  lr: 3.0e-4
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_eps: 0.2
+  entropy_coef: 0.01
+  value_coef: 0.5
+  max_grad_norm: 0.5
+  n_steps: 128              # rollout length per update
+  n_epochs: 4               # PPO epochs per update
+  batch_size: 64
+  hidden_dim: 128
+  n_layers: 2
+  seed: 42
+
+# --- Evaluation ---
+eval:
+  n_episodes: 100
+  seed: 1000
