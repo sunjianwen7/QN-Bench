@@ -1,0 +1,81 @@
+run,seed,agent,pair_rate,skr_rate,total_pairs,total_time_s,scenario
+0,9000,Your-PPO,80.28738295246517,0.0,84,1.0462416000000014,Reiß & van Loock (2023) scenario
+0,9000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+1,10000,Your-PPO,227.68706199796085,0.0,260,1.1419182000000005,Reiß & van Loock (2023) scenario
+1,10000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+2,11000,Your-PPO,54.20091971217763,0.0,84,1.5497892,Reiß & van Loock (2023) scenario
+2,11000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+3,12000,Your-PPO,77.17022770064224,0.0,121,1.5679622000000006,Reiß & van Loock (2023) scenario
+3,12000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+4,13000,Your-PPO,255.0300819573942,0.0,297,1.1645685000000014,Reiß & van Loock (2023) scenario
+4,13000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+5,14000,Your-PPO,162.92904687148288,0.0,178,1.0925001000000016,Reiß & van Loock (2023) scenario
+5,14000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+6,15000,Your-PPO,85.0520050006756,0.0,89,1.0464186000000004,Reiß & van Loock (2023) scenario
+6,15000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+7,16000,Your-PPO,326.95540279016166,0.0,398,1.2172914000000006,Reiß & van Loock (2023) scenario
+7,16000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+8,17000,Your-PPO,104.6921722971425,0.0,112,1.0698030000000005,Reiß & van Loock (2023) scenario
+8,17000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+9,18000,Your-PPO,142.66702467554217,0.0,156,1.0934552000000008,Reiß & van Loock (2023) scenario
+9,18000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+10,19000,Your-PPO,140.58972276345702,0.0,154,1.095385900000001,Reiß & van Loock (2023) scenario
+10,19000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+11,20000,Your-PPO,81.86134420705812,0.0,86,1.0505569000000008,Reiß & van Loock (2023) scenario
+11,20000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+12,21000,Your-PPO,114.26262288457376,0.0,123,1.0764675000000008,Reiß & van Loock (2023) scenario
+12,21000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+13,22000,Your-PPO,111.98683781366205,0.0,120,1.0715545000000024,Reiß & van Loock (2023) scenario
+13,22000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+14,23000,Your-PPO,145.07864992843483,0.0,239,1.6473823000000014,Reiß & van Loock (2023) scenario
+14,23000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+15,24000,Your-PPO,78.27675069771307,0.0,82,1.0475652000000009,Reiß & van Loock (2023) scenario
+15,24000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+16,25000,Your-PPO,55.47516748194256,0.0,115,2.072999600000001,Reiß & van Loock (2023) scenario
+16,25000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+17,26000,Your-PPO,128.00089439852002,0.0,207,1.617176200000001,Reiß & van Loock (2023) scenario
+17,26000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+18,27000,Your-PPO,71.51783931448135,0.0,75,1.048689400000002,Reiß & van Loock (2023) scenario
+18,27000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+19,28000,Your-PPO,435.0059973029624,0.0,572,1.3149244000000013,Reiß & van Loock (2023) scenario
+19,28000,Reiss-PPO,0.0,0.0,0,1.0,Reiß & van Loock (2023) scenario
+0,12000,Your-PPO,0.0,0.0,0,3.4101811000000035,Metzger et al. (2025) scenario
+0,12000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+1,13000,Your-PPO,0.0,0.0,0,3.212931200000002,Metzger et al. (2025) scenario
+1,13000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+2,14000,Your-PPO,0.0,0.0,0,3.411526700000003,Metzger et al. (2025) scenario
+2,14000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+3,15000,Your-PPO,0.0,0.0,0,3.810483800000004,Metzger et al. (2025) scenario
+3,15000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+4,16000,Your-PPO,0.0,0.0,0,3.6119791000000045,Metzger et al. (2025) scenario
+4,16000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+5,17000,Your-PPO,0.0,0.0,0,3.212685500000004,Metzger et al. (2025) scenario
+5,17000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+6,18000,Your-PPO,0.0,0.0,0,3.610973700000003,Metzger et al. (2025) scenario
+6,18000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+7,19000,Your-PPO,0.0,0.0,0,3.4120335000000006,Metzger et al. (2025) scenario
+7,19000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+8,20000,Your-PPO,0.0,0.0,0,3.4132307000000033,Metzger et al. (2025) scenario
+8,20000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+9,21000,Your-PPO,0.0,0.0,0,3.6110243000000013,Metzger et al. (2025) scenario
+9,21000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+10,22000,Your-PPO,0.0,0.0,0,3.6103270000000016,Metzger et al. (2025) scenario
+10,22000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+11,23000,Your-PPO,0.0,0.0,0,3.4122268000000027,Metzger et al. (2025) scenario
+11,23000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+12,24000,Your-PPO,0.0,0.0,0,3.6118260000000015,Metzger et al. (2025) scenario
+12,24000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+13,25000,Your-PPO,0.0,0.0,0,3.211875600000001,Metzger et al. (2025) scenario
+13,25000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+14,26000,Your-PPO,0.0,0.0,0,4.009575800000003,Metzger et al. (2025) scenario
+14,26000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+15,27000,Your-PPO,0.0,0.0,0,3.4114898000000022,Metzger et al. (2025) scenario
+15,27000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+16,28000,Your-PPO,0.0,0.0,0,3.810331900000003,Metzger et al. (2025) scenario
+16,28000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+17,29000,Your-PPO,0.0,0.0,0,3.412025600000003,Metzger et al. (2025) scenario
+17,29000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+18,30000,Your-PPO,0.0,0.0,0,3.6117833000000026,Metzger et al. (2025) scenario
+18,30000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
+19,31000,Your-PPO,0.0,0.0,0,3.4096725,Metzger et al. (2025) scenario
+19,31000,Metzger-PPO,0.0,0.0,0,1.0,Metzger et al. (2025) scenario
